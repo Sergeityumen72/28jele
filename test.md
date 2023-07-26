@@ -2,9 +2,11 @@
 
 **Здесь код**
 
-1. пункт 1
-2. пункт 3
+some python functions
 
-тут
+new python code
 
-Хочу мало делать и мого денег.
+there in info from master
+i am old senior from vetka2
+ lunior
+ 
